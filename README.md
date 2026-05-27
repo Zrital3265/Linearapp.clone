@@ -1,6 +1,6 @@
 # Linearapp Clone
 
-This project is a clone of the Linear.app, designed to explore and implement various front-end technologies, primarily focusing on Tailwind CSS, design principles, and animations.
+Older version of linear.app recreated with next.js and typescript with proper code structure and micro details. Leave a like if you liked it.
 
 ## Features
 
